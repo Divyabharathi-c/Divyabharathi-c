@@ -1,8 +1,8 @@
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
 
 <h1 align="center">Hi 👋, I'm Divyabharathi</h1>
 <h3 align="center">A passionate Full stack developer from Tamilnadu, India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlrNzI0Z3N4ZTljbDliaDBwOGl4dW50M3I2d3NhdTc5eDR6eHBsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyabharathi-c&label=Profile%20views&color=0e75b6&style=flat" alt="Divyabharathi-c" /> </p>
 
